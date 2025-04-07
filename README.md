@@ -1,3 +1,3 @@
 # Gesture_controlled_arm
 
-Ruuning a simple 6DOF arm using gestures
+Running a simple 6DOF arm using gestures
